@@ -1,0 +1,38 @@
+.sectionvidriera {
+  background-color: #40798c;
+  color: white;
+}
+
+.nav-link {
+  color: #cfd7c7;
+}
+
+.nav-link:hover {
+  color: #f6f1d1;
+  font-weight: bold;
+  transition: all 0.2s ease;
+}
+
+.navbar {
+  background-color: rgba(11, 32, 39, 0.8705882353);
+}
+
+.navbar-toggler {
+  background-color: #40798c;
+}
+
+.navbar-toggler-icon {
+  background-color: rgba(33, 63, 73, 0.7411764706);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #0b2027;
+  color: whitesmoke;
+}
+
+/*# sourceMappingURL=style.css.map */
