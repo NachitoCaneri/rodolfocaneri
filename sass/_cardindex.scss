@@ -1,30 +1,3 @@
-.sectionvidriera {
-  background-color: #40798c;
-  color: white;
-}
-
-.nav-link {
-  color: #cfd7c7;
-}
-
-.nav-link:hover {
-  color: #f6f1d1;
-  font-weight: bold;
-  transition: all 0.2s ease;
-}
-
-.navbar {
-  background-color: #0b2027;
-}
-
-.navbar-toggler {
-  background-color: #40798c;
-}
-
-.navbar-toggler-icon {
-  background-color: rgba(33, 63, 73, 0.7411764706);
-}
-
 .card {
   display: flex;
   flex-wrap: wrap;
@@ -73,19 +46,3 @@
   max-width: 310px;
   cursor: pointer;
 }
-
-* {
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  background-color: #0b2027;
-  color: whitesmoke;
-}
-
-#vidrieras {
-  text-decoration: none;
-}
-
-/*# sourceMappingURL=style.css.map */

@@ -1,5 +1,7 @@
 @import "sectionvidriera";
 @import "navbar";
+@import "cardindex";
+@import "sectioncontacto";
 
 * {
   margin: 0;
@@ -9,4 +11,8 @@
 body {
   background-color: #0b2027;
   color: whitesmoke;
+}
+
+#vidrieras {
+  text-decoration: none;
 }
